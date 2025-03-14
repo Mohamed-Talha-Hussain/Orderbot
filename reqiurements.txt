@@ -1,0 +1,4 @@
+python==3.11.2
+langchain==0.3.19
+panel==1.6.1
+langchain_groq==0.2.4
